@@ -19,7 +19,7 @@ Inspired by Banksy. "Tonight the streets are ours."
 # MVP 1 :
 Target for Completion: Tuesday, November 2, 2015
 
-The website, made with Angular, will be deployed on digital ocean at wallsite.net. At the top right corner, the mainpage will have (i) a signup/signin button that opens a signup/signin modal, which, used successfully, redirects the user to their profile, and (ii) a button that opens the download page for the chrome extension in a new tab. Note that the modal should require an address, and should handle errors responsively (like notifying the user a username is taken, or that the address does not correspond to a valid geo-locale). 
+The website, made with Angular, will be deployed at wallsite.net. At the top right corner, the mainpage will have (i) a signup/signin button that opens a signup/signin modal, which, used successfully, redirects the user to their profile, and (ii) a button that opens the download page for the chrome extension in a new tab. Note that the modal should require an address, and should handle errors responsively (like notifying the user a username is taken, or that the address does not correspond to a valid geo-locale). 
 
 Each user page should be sharable, like Twitter, but only editable by the user when logged in. The design is 'in the air', but it should have the basic info: 
   - location
