@@ -19,7 +19,9 @@ Inspired by Banksy. "Tonight the streets are ours."
 # MVP 1 :
 Target for Completion: Tuesday, November 2, 2015
 
-1) Renders user's latest stored canvas on to Google accurately across all machines
+1) Renders latest stored canvas on to Google accurately across all machines
 
 2) Deployed (downloadable)
+
+3) Adds button to top-bar that allows user to see the username associated with the canvas
 
