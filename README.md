@@ -21,3 +21,5 @@ Target for Completion: Tuesday, November 2, 2015
 
 1) Renders user's latest stored canvas on to Google accurately across all machines
 
+2) Deployed (downloadable)
+
