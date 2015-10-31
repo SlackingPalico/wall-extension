@@ -3,6 +3,13 @@
   "description": "Paint my wall",
   "version": "1",
   "manifest_version": 2,
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["src/background.js"],
+    "persistent": false
+  },
   "browser_action": {
     "default_title": "Wall"
   }
