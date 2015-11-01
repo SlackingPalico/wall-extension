@@ -8,3 +8,11 @@ chrome.browserAction.onClicked.addListener(function(tab) {
     });
   }
 });
+
+chrome.tabs.onUpdated.addListener(function(id, info, tab){
+  if (tab.status === 'loading' || tab.url === googleURL2){
+    chrome.tabs.executeScript({
+      file: 'src/addButton.js'
+    });
+  }
+})
